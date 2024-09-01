@@ -109,7 +109,7 @@ Ai_Brain.predict(x_n1_1)
 ![359046160-a2667578-a556-4671-b2ec-be09d7359aeb](https://github.com/user-attachments/assets/f9b48dc4-869a-4f6a-88f7-043efa66eeff)
 
 ## OUTPUT
-# Training Loss Vs Iteration Plot
+### Training Loss Vs Iteration Plot
 ![359046800-b305cd57-4432-4a2b-9a1c-e8d95d041f14](https://github.com/user-attachments/assets/41ce6089-39cd-4784-b8f1-285de34ef118)
 
 ### Training Loss Vs Iteration Plot
