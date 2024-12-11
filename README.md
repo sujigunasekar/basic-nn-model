@@ -4,7 +4,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+Designing and implementing a neural network regression model aims to accurately predict a continuous target variable based on a set of input features from the provided dataset. The neural network learns complex relationships within the data through interconnected layers of neurons. The model architecture includes an input layer for the features, several hidden layers with non-linear activation functions like ReLU to capture complex patterns, and an output layer with a linear activation function to produce the continuous target prediction.
 
 ## Neural Network Model
 ![363487354-403b88df-7770-4560-adc7-b736e1b3e25b](https://github.com/user-attachments/assets/da689c06-58a6-497b-898b-9564879588ec)
